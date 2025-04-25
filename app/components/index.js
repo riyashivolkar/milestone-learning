@@ -1,0 +1,11 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as Insights } from "./Insights";
+export { default as Milestone } from "./Milestone";
+export { default as Success } from "./Success";
+export { default as Support } from "./Support";
+export { default as AcademicPerformance } from "./AcademicPerformance";
+export { default as Trust } from "./Trust";
+export { default as Faq } from "./Faq";
+export { default as BecomeTutor } from "./BecomeTutor";
+export { default as Footer } from "./Footer";
